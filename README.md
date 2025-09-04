@@ -1,6 +1,5 @@
-## Hiiiiiii 👋
-
-# 💫 About Me:
+# Hallo 👋
+## 💫 Wanna know about Me:
 🌱 I’m currently learning C#<br>💬 Ask me about art & crafts (?<br>⚡ Fun fact, I cannot sit still, h8 to be in the same spot for a while
 
 ### 🌐 Socials:
